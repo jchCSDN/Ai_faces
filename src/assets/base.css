@@ -1,0 +1,26 @@
+.see {
+   margin: 0 auto;
+    width: 70vw;
+    height: 60vh;
+    position: relative;
+    padding: 40px;
+    display: flex;
+    margin-top: 2vh;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    transition: 0.2s;
+    background-color: white;
+  }
+  .see:hover {
+    box-shadow: 0 0 8px 0 rgb(101 103 108 / 60%), 0 2px 4px 0 rgb(82 95 127 / 50%);
+  }
+  .main {
+    background-color: #e5ffff;
+    width: 100vw;
+    height: 100vh;
+  }
+  .option{
+   margin-left: -1px;
+  }

@@ -1,0 +1,72 @@
+{
+  "id": "2966609",
+  "name": "font",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11555733",
+      "name": "点点点",
+      "font_class": "diandiandian",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "7577418",
+      "name": "24gl-shieldCheck",
+      "font_class": "24gl-shieldCheck",
+      "unicode": "e9d4",
+      "unicode_decimal": 59860
+    },
+    {
+      "icon_id": "18749008",
+      "name": "人脸识别",
+      "font_class": "renlianshibie1",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "629343",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "3978385",
+      "name": "对比",
+      "font_class": "duibi",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "4890377",
+      "name": "分割线",
+      "font_class": "fengexian",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "6851465",
+      "name": "注册",
+      "font_class": "zhuce",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "8080329",
+      "name": "人脸",
+      "font_class": "renlian",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "4097661",
+      "name": "众筹",
+      "font_class": "zhongchou",
+      "unicode": "e8a4",
+      "unicode_decimal": 59556
+    }
+  ]
+}
